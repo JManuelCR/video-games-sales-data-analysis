@@ -52,7 +52,11 @@ I applied the scientific method to validate business assumptions:
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/video-game-analysis.git](https://github.com/your-username/video-game-analysis.git)
+## 🚀 Installation & Setup
+
+Follow these steps to set up the project and the local environment:
+
+### 1. Clone the Repository
+```bash
+git clone [git@github.com:JManuelCR/video-games-sales-data-analysis.git](git@github.com:JManuelCR/video-games-sales-data-analysis.git)
+cd video-game-analysis
