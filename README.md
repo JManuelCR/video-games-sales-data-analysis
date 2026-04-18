@@ -55,4 +55,4 @@ I applied the scientific method to validate business assumptions:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [git@github.com:JManuelCR/video-games-sales-data-analysis.git)
+   git clone [git@github.com:JManuelCR/video-games-sales-data-analysis.git]
