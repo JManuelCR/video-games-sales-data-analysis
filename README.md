@@ -58,5 +58,5 @@ Follow these steps to set up the project and the local environment:
 
 ### 1. Clone the Repository
 ```bash
-git clone git@github.com:JManuelCR/video-games-sales-data-analysis.git
+git clone git@github.com:JManuelCR/video-games-sales-data-analysis.git  
 cd video-game-analysis
